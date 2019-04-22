@@ -1,6 +1,6 @@
 # EventGridHttpConsumer
 
-See <a href="/NodeJS/README.md">Node JS implementation</a>
+See <a href="/NodeJS/">Node JS implementation</a>
 
 Htt Comsumer for Azure Event Grid WebHook endpoint. 
 
